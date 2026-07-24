@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://councilbluffsrestoration.com/sitemap.xml
